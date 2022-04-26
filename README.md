@@ -1,6 +1,6 @@
 # Meme Generator - React Application
 
-A server side react application to generate the meme 😂
+A server side react application to generate the meme from an API😂
 
 ## Output
 
